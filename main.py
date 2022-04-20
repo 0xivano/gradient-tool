@@ -1,5 +1,5 @@
 # Dont be scammed for this gradient shit lool
-# If you wa
+# Ivano#7345
 def gradient(startrgb, endrgb, text: str):
 	lenoft = len(text) 
 	changer = int((int(endrgb[0]) - int(startrgb[0]))/lenoft)
